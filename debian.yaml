@@ -101,7 +101,7 @@ packages:
     - openssh-server
     - wget
     - ca-certificates
-    - loki
+    - loki=3.0.0
     - promtail
     action: install
 
